@@ -104,6 +104,11 @@ a {
   display: none;
 }
 
+.skillsSummary {
+   cursor: pointer;
+   text-decoration: underline;
+}
+
 .orange {
   background-color: #f5ae23;
 }
@@ -154,6 +159,12 @@ ul {
   padding: 10px;
   width: 200px;
   display: none;
+}
+
+/*BDW addition*/
+.project-pic {
+   width: 220px;
+   height: 143px;
 }
 
 img {
